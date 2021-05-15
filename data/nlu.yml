@@ -1,0 +1,89 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - oi
+    - olá
+    - e ai
+    - bom dia
+    - boa tarde
+    - boa noite
+    - oi, como vai você
+    - oi, tudo bem?
+
+- intent: goodbye
+  examples: |
+    - boa tarde
+    - até amanhã
+    - até mais
+    - vejo você amanhã
+    - boa noite
+    - bom dia
+    - tchau
+    - tenha um ótimo dia
+    - see you around
+    - Vejo você por aí
+    - tchau tchau
+
+- intent: affirm
+  examples: |
+    - sim
+    - y
+    - s
+    - verdade
+    - com certeza
+    - claro
+    - isso soa bem
+    - correto
+    - s
+
+- intent: deny
+  examples: |
+    - não
+    - n
+    - nunca
+    - de jeito nenhum
+    - na verdade não
+    - ñ
+
+- intent: mood_great
+  examples: |
+    - perfeito
+    - excelente
+    - incrível
+    - sentindo-se como um rei
+    - Maravilhoso
+    - Estou me sentindo muito bem
+    - Estou estou ótimo
+    - Eu sou incrível
+    - Eu vou salvar o mundo
+    - super feliz
+    - extremamente bom
+    - tão perfeito
+    - tão bom
+    - tão perfeito
+
+- intent: mood_unhappy
+  examples: |
+    - meu dia foi horrível
+    - Estou triste
+    - Não me sinto muito bem
+    - Estou desapontado
+    - super triste
+    - Eu estou tão triste
+    - triste
+    - muito triste
+    - infeliz
+    - não é bom
+    - não muito bom
+    - extremamente triste
+    - tão saad
+    - tão triste
+
+- intent: bot_challenge
+  examples: |
+    - Você é um robô?
+    - Você é um humano?
+    - estou falando com um bot?
+    - estou falando com um humano?
