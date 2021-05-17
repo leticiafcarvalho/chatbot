@@ -3513,10 +3513,10 @@
     "Risco": 4
   },
   {
-    "name": "HypertrophicCardiomyopathyC",
-    "text": "Hypertrophic cardiomyopathy",
-    "laytext": "Hypertrophic cardiomyopathy",
-    "category": "chronic",
+    "nome": "Cardiomiopatia Hipertrófica C",
+    "text": "Cardiomiopatia hipertrófica",
+    "laytext": "Cardiomiopatia hipertrófica",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3527,13 +3527,13 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 4
+    "Risco": 4
   },
   {
-    "name": "DilatedCardiomyopathyC",
-    "text": "Dilated cardiomyopathy",
-    "laytext": "Dilated cardiomyopathy",
-    "category": "chronic",
+    "nome": "Cardiomiopatia dilatada C",
+    "text": "Cardiomiopatia dilatada",
+    "laytext": "Cardiomiopatia dilatada",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3544,13 +3544,13 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 4
+    "Risco": 4
   },
   {
-    "name": "TricuspidRegurgitationC",
-    "text": "Chronic tricuspid regurgitation (TR)",
-    "laytext": "Chronic tricuspid regurgitation (TR)",
-    "category": "chronic",
+    "nome": "TricuspidRegurgitationC",
+    "text": "Regurgitação tricúspide crônica (TR)",
+    "laytext": "Regurgitação tricúspide crônica (TR)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3561,13 +3561,13 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3
+    "Risco": 3
   },
   {
-    "name": "Hydronephrosis",
-    "text": "Hydronephrosis.",
-    "laytext": "Hydronephrosis.",
-    "category": "acute",
+    "nome": "Hidronefrose",
+    "text": "Hidronefrose.",
+    "laytext": "Hidronefrose.",
+    "categoria": "agudo",
     "alias": "",
     "wiki": "",
     "IsRare": false,
@@ -3577,14 +3577,14 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 4,
+    "Risco": 4,
     "ICD10": "N13.2"
   },
   {
-    "name": "InsulinomaC",
-    "text": "Pancreatic insulinoma",
-    "laytext": "Pancreatic insulinoma",
-    "category": "chronic",
+    "nome": "InsulinomaC",
+    "text": "Insulinoma pancreático",
+    "laytext": "insulinoma pancreático",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3595,67 +3595,67 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3
+    "Risco": 3
   },
   {
-    "name": "ASDC",
-    "text": "Atrial septal defect (ASD)",
-    "laytext": "Atrial septal defect (ASD)",
-    "category": "chronic"
+    "nome": "ASDC",
+    "text": "Defeito do septo atrial (ASD)",
+    "laytext": "Defeito do septo atrial (ASD)",
+    "categoria": "crônica"
   },
   {
-    "name": "VSDC",
-    "text": "Ventricular septal defect (VSD) (chronic)",
-    "laytext": "Ventricular septal defect (VSD) (chronic)",
-    "category": "chronic"
+    "nome": "VSDC",
+    "text": "Defeito do septo ventricular (VSD) (crônico)",
+    "laytext": "Defeito do septo ventricular (VSD) (crônico)",
+    "categoria": "crônica"
   },
   {
-    "name": "PDAC",
-    "text": "Patent ductus arteriosus (PTA)",
-    "laytext": "Patent ductus arteriosus (PTA)",
-    "category": "chronic"
+    "nome": "PDAC",
+    "text": "Patente do canal arterial (PTA)",
+    "laytext": "Patente do canal arterial (PTA)",
+    "categoria": "crônica"
   },
   {
-    "name": "MitralRegurgitationC",
-    "text": "Chronic mitral regurgitation (MR)",
-    "laytext": "Chronic mitral regurgitation (MR)",
-    "category": "chronic"
+    "nome": "MitralRegurgitationC",
+    "text": "Regurgitação mitral crônica (MR)",
+    "texto leigo": "Regurgitação mitral crônica (RM)",
+    "categoria": "crônica"
   },
   {
-    "name": "MitralStenosisC",
-    "text": "Chronic mitral stenosis (MS)",
-    "laytext": "Chronic mitral stenosis (MS)",
-    "category": "chronic"
+    "nome": "MitralStenosisC",
+    "text": "Estenose mitral crônica (EM)",
+    "laytext": "Estenose mitral crônica (EM)",
+    "categoria": "crônica"
   },
   {
-    "name": "RVFC",
-    "text": "Chronic right ventricle heart failure (RVHF)",
-    "laytext": "Chronic right ventricle heart failure (RVHF)",
-    "category": "chronic"
+    "nome": "RVFC",
+    "text": "Insuficiência cardíaca do ventrículo direito crônica (RVHF)",
+    "laytext": "Insuficiência cardíaca de ventrículo direito crônica (RVHF)",
+    "categoria": "crônica"
   },
   {
-    "name": "PulmonaryHypertensionC",
-    "text": "Pulmonary hypertension (PulmHTN)",
-    "laytext": "Pulmonary hypertension (PulmHTN)",
-    "category": "chronic"
+    "nome": "PulmonaryHypertensionC",
+    "text": "Hipertensão pulmonar (PulmHTN)",
+    "laytext": "Hipertensão pulmonar (PulmHTN)",
+    "categoria": "crônica"
   },
   {
-    "name": "NonConstrictivePericarditisC",
-    "text": "Non constrictive pericarditis",
-    "laytext": "Non constrictive pericarditis",
-    "category": "chronic"
+    "name": "NonConstrictivePericarditis C",
+    "text": "Pericardite não constritiva",
+    "laytext": "Pericardite não constritiva",
+    "categoria": "crônica"
   },
   {
-    "name": "ConstrictivePericarditisC",
-    "text": "Constrictive pericarditis",
-    "laytext": "Constrictive pericarditis",
-    "category": "chronic"
+    "nome": "ConstrictivePericarditisC",
+    "text": "Pericardite constritiva",
+    "laytext": "Pericardite constritiva",
+    "categoria": "crônica"
   },
   {
     "name": "PrimaryArterialHypertension",
-    "text": "Primary systemic arterial hypertension",
-    "laytext": "New diagnosis of high blood pressure (hypertension)",
-    "category": "acute",
+    "text": "Hipertensão arterial sistêmica primária",
+    "laytext": "Novo diagnóstico de pressão alta (hipertensão)",
+    "categoria": "agudo",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3665,14 +3665,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "I10"
   },
   {
     "name": "PrimaryArterialHypertensionByHistory",
-    "text": "Primary arterial hypertension (chronic)",
-    "laytext": "High blood pressure (hypertension)",
-    "category": "chronic",
+    "text": "Hipertensão arterial primária (crônica)",
+    "laytext": "Pressão alta (hipertensão)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3682,14 +3682,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "I10"
   },
   {
     "name": "SecondaryArterialHypertension",
-    "text": "Secondary arterial hypertension (chronic)",
-    "laytext": "High blood pressure (hypertension) secondary to another cause",
-    "category": "chronic",
+    "text": "Hipertensão arterial secundária (crônica)",
+    "laytext": "Pressão alta (hipertensão) secundária a outra causa",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3699,14 +3699,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "I15.9"
   },
   {
-    "name": "SecondaryArterialHypertensionSecondaryRASAtherosclerotic",
-    "text": "Secondary arterial hypertension secondary to renal artery stenosis secondary to atherosclerosis",
-    "laytext": "High blood pressure (hypertension) secondary to renal artery stenosis secondary to atherosclerosis",
-    "category": "chronic",
+    "nome": "SecondaryArterialHypertensionSecondaryRASAterosclerótica",
+    "text": "Hipertensão arterial secundária à estenose da artéria renal secundária à aterosclerose",
+    "laytext": "Pressão alta (hipertensão) secundária à estenose da artéria renal secundária à aterosclerose",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3716,14 +3716,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "I15. 0"
   },
   {
     "name": "SecondaryArterialHypertensionSecondaryRASFibromuscularDysplasia",
-    "text": "Secondary arterial hypertension secondary to renal artery stenosis, secondary to fibromuscular dysplasia",
-    "laytext": "High blood pressure (hypertension) secondary to renal artery stenosis, secondary to fibromuscular dysplasia",
-    "category": "chronic",
+    "text": "Hipertensão arterial secundária secundária a estenose da artéria renal, secundária a displasia fibromuscular",
+    "laytext": "Pressão alta (hipertensão) secundária à estenose da artéria renal, secundária à displasia fibromuscular",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3733,14 +3733,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "I15"
   },
   {
-    "name": "SecondaryArterialHypertensionHyperaldo",
-    "text": "Arterial hypertension (chronic) secondary to hyperaldosteronism",
-    "laytext": "High blood pressure (hypertension) secondary to hyperactive adrenal gland in producing aldosterone (hyperaldosteronism)",
-    "category": "chronic",
+    "nome": "SecondaryArterialHypertensionHyperaldo",
+    "text": "Hipertensão arterial (crônica) secundária ao hiperaldosteronismo",
+    "laytext": "Pressão alta (hipertensão) secundária à glândula adrenal hiperativa na produção de aldosterona (hiperaldosteronismo)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3750,14 +3750,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "E26.1"
   },
   {
-    "name": "SecondaryArterialHypertensionCKD",
-    "text": "Arterial hypertension (chronic) secondary to chronic kidney disease",
-    "laytext": "High blood pressure (hypertension) secondary to chronic kidney disease",
-    "category": "chronic",
+    "nome": "SecondaryArterialHypertensionCKD",
+    "text": "Hipertensão arterial (crônica) secundária à doença renal crônica",
+    "laytext": "Pressão alta (hipertensão) secundária à doença renal crônica",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3767,14 +3767,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "I12"
   },
   {
-    "name": "SecondaryArterialHypertensionOSA",
-    "text": "Arterial hypertension (chronic) secondary to OSA",
-    "laytext": "High blood pressure (hypertension) secondary to obstructive sleep apnea (OSA)",
-    "category": "chronic",
+    "nome": "SecondaryArterialHypertensionOSA",
+    "text": "Hipertensão arterial (crônica) secundária a AOS",
+    "laytext": "Pressão alta (hipertensão) secundária à apneia obstrutiva do sono (AOS)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3784,14 +3784,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
-    "ICD10": "I15.9,G47.33"
+    "Risco": 3,
+    "ICD10": "I15.9, G47.33"
   },
   {
-    "name": "SecondaryArterialHypertensionObesity",
-    "text": "Arterial hypertension (chronic) secondary to obesity",
-    "laytext": "High blood pressure (hypertension) secondary to obesity",
-    "category": "chronic",
+    "nome": "SecondaryArterialHypertensionObesity",
+    "text": "Hipertensão arterial (crônica) secundária à obesidade",
+    "laytext": "Pressão alta (hipertensão) secundária à obesidade",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3801,14 +3801,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
-    "ICD10": "I15.9,E66.01"
+    "Risco": 3,
+    "ICD10": "I15.9, E66.01"
   },
   {
-    "name": "Hyperaldosteronism",
-    "text": "Hyperaldosteronism",
-    "laytext": "Hyperactivity of adrenal gland in producing aldosterone (hyperaldosteronism)",
-    "category": "chronic",
+    "nome": "Hiperaldosteronismo",
+    "text": "Hiperaldosteronismo",
+    "laytext": "Hiperatividade da glândula adrenal na produção de aldosterona (hiperaldosteronismo)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3818,14 +3818,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "E26.9"
   },
   {
-    "name": "BrainNeoC",
-    "text": "Brain neoplasm",
-    "laytext": "Brain neoplasm",
-    "category": "chronic",
+    "nome": "BrainNeoC",
+    "text": "Neoplasia cerebral",
+    "laytext": "Neoplasia cerebral",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "IsRare": false,
@@ -3836,13 +3836,13 @@
     "wiki3": "",
     "wiki4": "",
     "ICD10": "C71.9",
-    "Risk": 3
+    "Risco": 3
   },
   {
-    "name": "MSC",
-    "text": "Multiple sclerosis",
-    "laytext": "Multiple sclerosis",
-    "category": "chronic",
+    "nome": "MSC",
+    "text": "Esclerose múltipla",
+    "laytext": "Esclerose múltipla",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3853,13 +3853,13 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": true,
     "IsCantMiss": false,
-    "Risk": 3
+    "Risco": 3
   },
   {
-    "name": "ANEMIAC",
-    "text": "Chronic anemia",
-    "laytext": "Low hemoglobin level (anemia)",
-    "category": "chronic",
+    "nome": "ANEMIAC",
+    "text": "Anemia crônica",
+    "laytext": "Nível baixo de hemoglobina (anemia)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3869,79 +3869,79 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3
+    "Risco": 3
   },
   {
-    "name": "ObesityC",
-    "text": "Obesity",
-    "laytext": "Obesity",
-    "category": "chronic"
+    "nome": "Obesidade C",
+    "text": "Obesidade",
+    "laytext": "Obesidade",
+    "categoria": "crônica"
   },
   {
-    "name": "NormalWeightC",
-    "text": "Normal weight",
-    "laytext": "Normal weight",
-    "category": "chronic"
+    "nome": "NormalWeightC",
+    "text": "Peso normal",
+    "laytext": "Peso normal",
+    "categoria": "crônica"
   },
   {
     "name": "OverweightC",
     "text": "Overweight",
     "laytext": "Overweight",
-    "category": "chronic"
+    "categoria": "crônica"
   },
   {
-    "name": "ExtremeObesityC",
-    "text": "Extreme obesity",
-    "laytext": "Extreme obesity",
-    "category": "chronic"
+    "nome": "ExtremeObesityC",
+    "text": "Obesidade extrema",
+    "laytext": "Obesidade extrema",
+    "categoria": "crônica"
   },
   {
-    "name": "BRONCHITISC",
-    "text": "Chronic bronchitis",
-    "laytext": "Chronic bronchitis",
-    "category": "chronic"
+    "nome": "BRONQUITISCO",
+    "text": "Bronquite crônica",
+    "laytext": "Bronquite crônica",
+    "categoria": "crônica"
   },
   {
-    "name": "ILDC",
-    "text": "Interstitial lung disease",
-    "laytext": "Interstitial lung disease",
-    "category": "chronic"
+    "nome": "ILDC",
+    "text": "Doença pulmonar intersticial",
+    "laytext": "Doença pulmonar intersticial",
+    "categoria": "crônica"
   },
   {
-    "name": "LCC",
-    "text": "Lung cancer",
-    "laytext": "Lung cancer",
-    "category": "chronic"
+    "nome": "LCC",
+    "text": "Câncer de pulmão",
+    "laytext": "Câncer de pulmão",
+    "categoria": "crônica"
   },
   {
-    "name": "PFC",
-    "text": "Idiopathic pulmonary fibrosis",
-    "laytext": "Idiopathic pulmonary fibrosis",
-    "category": "chronic"
+    "nome": "PFC",
+    "text": "Fibrose pulmonar idiopática",
+    "laytext": "fibrose pulmonar idiopática",
+    "categoria": "crônica"
   },
   {
-    "name": "ThyroidGoiterC",
-    "text": "Chronic thyroid goiter airway obstruction",
-    "laytext": "Chronic thyroid goiter airway obstruction",
-    "category": "chronic"
+    "nome": "ThyroidGoiterC",
+    "text": "Obstrução crônica das vias aéreas do bócio da tireoide",
+    "laytext": "Obstrução crônica das vias aéreas do bócio da tireoide",
+    "categoria": "crônica"
   },
   {
-    "name": "NonTBMycobacteriaeC",
-    "text": "Chronic nontuberculous mycobacterial lung infection",
-    "laytext": "Chronic nontuberculous mycobacterial lung infection",
-    "category": "chronic"
+    "nome": "NonTBMycobacteriaeC",
+    "text": "Infecção pulmonar micobacteriana crônica não tuberculosa",
+    "laytext": "Infecção pulmonar micobacteriana crônica não tuberculosa",
+    "categoria": "crônica"
   },
   {
-    "name": "HealthyC",
-    "text": "Patient seems free from chronic respiratory issues",
-    "laytext": "Patient seems free from chronic respiratory issues",
-    "category": "chronic"
+    "nome": "HealthyC",
+    "text": "O paciente parece não ter problemas respiratórios crônicos",
+    "laytext": "O paciente parece estar livre de problemas respiratórios crônicos",
+    "categoria": "crônica"
   },
   {
-    "name": "CCC",
-    "text": "Colon cancer",
-    "laytext": "Colon cancer",
-    "category": "chronic",
+    "nome": "CCC",
+    "text": "Câncer de cólon",
+    "laytext": "Câncer de cólon",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -3951,68 +3951,68 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "C18.9"
   },
   {
-    "name": "EndomC",
-    "text": "Endometrial neoplasm",
-    "laytext": "Endometrial neoplasm",
-    "category": "chronic"
+    "nome": "EndomC",
+    "text": "Neoplasia endometrial",
+    "laytext": "Neoplasia endometrial",
+    "categoria": "crônica"
   },
   {
-    "name": "OvarianC",
-    "text": "Ovarian neoplasm",
-    "laytext": "Ovarian neoplasm",
-    "category": "chronic"
+    "nome": "OvarianC",
+    "text": "Neoplasia do ovário",
+    "laytext": "Neoplasia do ovário",
+    "categoria": "crônica"
   },
   {
-    "name": "CervicalC",
-    "text": "Cervical neoplasm",
-    "laytext": "Cervical neoplasm",
-    "category": "chronic"
+    "nome": "CervicalC",
+    "text": "Neoplasia cervical",
+    "laytext": "Neoplasia cervical",
+    "categoria": "crônica"
   },
   {
-    "name": "EAC",
-    "text": "Esophageal achalasia",
-    "laytext": "Esophageal achalasia",
-    "category": "chronic"
+    "nome": "EAC",
+    "text": "Acalasia esofágica",
+    "laytext": "Acalasia esofágica",
+    "categoria": "crônica"
   },
   {
-    "name": "IDAC",
-    "text": "Iron deficiency anemia",
-    "laytext": "Iron deficiency anemia",
-    "category": "chronic"
+    "nome": "IDAC",
+    "text": "Anemia por deficiência de ferro",
+    "laytext": "Anemia por deficiência de ferro",
+    "categoria": "crônica"
   },
   {
-    "name": "B12DAC",
-    "text": "B12 deficiency anemia",
-    "laytext": "B12 deficiency anemia",
-    "category": "chronic"
+    "nome": "B12DAC",
+    "text": "anemia por deficiência de B12",
+    "laytext": "anemia por deficiência de B12",
+    "categoria": "crônica"
   },
   {
-    "name": "FolateDAC",
-    "text": "Folate deficiency anemia",
-    "laytext": "Folate deficiency anemia",
-    "category": "chronic"
+    "nome": "FolateDAC",
+    "text": "Anemia por deficiência de folato",
+    "laytext": "Anemia por deficiência de folato",
+    "categoria": "crônica"
   },
   {
-    "name": "PernDAC",
-    "text": "Pernicious anemia",
-    "laytext": "Pernicious anemia",
-    "category": "chronic"
+    "nome": "PernDAC",
+    "text": "Anemia perniciosa",
+    "laytext": "Anemia perniciosa",
+    "categoria": "crônica"
   },
   {
-    "name": "IntenParasC",
-    "text": "Intestinal parasites",
-    "laytext": "Intestinal parasites",
-    "category": "chronic"
+    "nome": "IntenParasC",
+    "text": "Parasitas intestinais",
+    "laytext": "Parasitas intestinais",
+    "categoria": "crônica"
   },
   {
-    "name": "Transaminitis",
-    "text": "Transaminitis",
-    "laytext": "Transaminitis",
-    "category": "chronic",
+    "nome": "Transaminite",
+    "text": "Transaminite",
+    "laytext": "Transaminite",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4022,14 +4022,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "R74.0"
   },
   {
-    "name": "HepA",
-    "text": "Hepatitis A",
-    "laytext": "Hepatitis A",
-    "category": "chronic",
+    "nome": "HepA",
+    "text": "Hepatite A",
+    "laytext": "Hepatite A",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4039,14 +4039,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "B15"
   },
   {
-    "name": "HepCA",
-    "text": "Acute hepatitis C",
-    "laytext": "Acute hepatitis C",
-    "category": "chronic",
+    "nome": "HepCA",
+    "text": "Hepatite C aguda",
+    "laytext": "Hepatite C aguda",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4056,14 +4056,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "B17.1"
   },
   {
-    "name": "HepBC",
-    "text": "Hepatitis B",
-    "laytext": "Hepatitis B",
-    "category": "chronic",
+    "nome": "HepBC",
+    "text": "Hepatite B",
+    "laytext": "Hepatite B",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4073,14 +4073,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "B19"
   },
   {
-    "name": "HIVC",
-    "text": "Human immunodeficiency virus (HIV) infection",
-    "laytext": "Human immunodeficiency virus (HIV) infection",
-    "category": "chronic",
+    "nome": "HIVC",
+    "text": "Infecção pelo vírus da imunodeficiência humana (HIV)",
+    "laytext": "Infecção pelo vírus da imunodeficiência humana (HIV)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4090,14 +4090,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "B20"
   },
   {
-    "name": "SyphilisC",
-    "text": "Syphilis",
-    "laytext": "Syphilis",
-    "category": "chronic",
+    "nome": "SífilisC",
+    "text": "Sífilis",
+    "laytext": "Sífilis",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4107,14 +4107,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "A53.9"
   },
   {
-    "name": "HemorrhoidsC",
-    "text": "Hemorrhoids - chronic",
-    "laytext": "Hemorrhoids - chronic",
-    "category": "chronic",
+    "nome": "HemorrhoidsC",
+    "text": "Hemorróidas - crônicas",
+    "laytext": "Hemorróidas - crônicas",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4124,14 +4124,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "K64"
   },
   {
-    "name": "IschCoitisC",
-    "text": "Chronic ischemic colitis",
-    "laytext": "Chronic ischemic colitis",
-    "category": "chronic",
+    "nome": "IschCoitisC",
+    "text": "Colite isquêmica crônica",
+    "laytext": "Colite isquêmica crônica",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4141,44 +4141,44 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "K55.1"
   },
   {
-    "name": "EndometriosisC",
-    "text": "Endometriosis",
-    "laytext": "Endometriosis",
-    "category": "chronic"
+    "nome": "Endometriose C",
+    "text": "Endometriose",
+    "laytext": "Endometriose",
+    "categoria": "crônica"
   },
   {
-    "name": "DepressC",
-    "text": "Depression",
-    "laytext": "Depression",
-    "category": "chronic"
+    "nome": "DepressC",
+    "text": "Depressão",
+    "laytext": "Depressão",
+    "categoria": "crônica"
   },
   {
-    "name": "HypogonadismC",
-    "text": "Hypogonadism",
-    "laytext": "Hypogonadism",
-    "category": "chronic"
+    "nome": "Hipogonadismo C",
+    "text": "Hipogonadismo",
+    "laytext": "Hipogonadismo",
+    "categoria": "crônica"
   },
   {
-    "name": "UreteralStoneC",
-    "text": "Ureteral stone (without acute hydronephrosis)",
-    "laytext": "Ureteral stone (without acute hydronephrosis)",
-    "category": "chronic"
+    "nome": "UreteralStoneC",
+    "text": "Pedra ureteral (sem hidronefrose aguda)",
+    "laytext": "Pedra ureteral (sem hidronefrose aguda)",
+    "categoria": "crônica"
   },
   {
-    "name": "KCC",
-    "text": "Kidney neoplasm",
-    "laytext": "Kidney neoplasm",
-    "category": "chronic"
+    "nome": "KCC",
+    "text": "Neoplasia renal",
+    "laytext": "Neoplasia renal",
+    "categoria": "crônica"
   },
   {
-    "name": "BladderCC",
-    "text": "Bladder cancer",
-    "laytext": "Urinary bladder cancer",
-    "category": "chronic",
+    "nome": "BladderCC",
+    "text": "Câncer de bexiga",
+    "laytext": "Câncer de bexiga urinária",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4188,14 +4188,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 4,
+    "Risco": 4,
     "ICD10": "C67.9"
   },
   {
-    "name": "StressIC",
-    "text": "Stress incontinence ",
-    "laytext": "Stress incontinence ",
-    "category": "chronic",
+    "nome": "StressIC",
+    "text": "Incontinência de esforço",
+    "laytext": "Incontinência de esforço",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4205,14 +4205,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N39.3"
   },
   {
-    "name": "MixedIC",
-    "text": "Mixed incontinence ",
-    "laytext": "Mixed incontinence ",
-    "category": "chronic",
+    "nome": "MixedIC",
+    "text": "Incontinência mista",
+    "laytext": "Incontinência mista",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4222,14 +4222,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N39.46"
   },
   {
-    "name": "UrgencyIC",
-    "text": "Urge incontinence ",
-    "laytext": "Urge incontinence ",
-    "category": "chronic",
+    "nome": "UrgencyIC",
+    "text": "Incontinência de urgência",
+    "laytext": "Incontinência de urgência",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4239,14 +4239,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N39.41"
   },
   {
-    "name": "OverflowIC",
-    "text": "Overflow incontinence ",
-    "laytext": "Overflow incontinence ",
-    "category": "chronic",
+    "nome": "OverflowIC",
+    "text": "Incontinência por transbordamento",
+    "laytext": "Incontinência por transbordamento",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4256,26 +4256,26 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N39.490"
   },
   {
-    "name": "UreterCC",
-    "text": "Ureter neoplasm",
-    "laytext": "Ureter neoplasm",
-    "category": "chronic"
+    "nome": "UreterCC",
+    "text": "Neoplasia de ureter",
+    "laytext": "Neoplasia de ureter",
+    "categoria": "crônica"
   },
   {
-    "name": "Ckf",
-    "text": "Chronic kidney failure",
-    "laytext": "Chronic kidney failure",
-    "category": "chronic"
+    "nome": "Ckf",
+    "text": "Insuficiência renal crônica",
+    "laytext": "Insuficiência renal crônica",
+    "categoria": "crônica"
   },
   {
-    "name": "GDS",
-    "text": "Goodpasture syndrome",
-    "laytext": "Goodpasture syndrome",
-    "category": "chronic",
+    "nome": "GDS",
+    "text": "Síndrome de Goodpasture",
+    "laytext": "Síndrome de Goodpasture",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4285,14 +4285,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": true,
     "IsCantMiss": true,
-    "Risk": 4,
+    "Risco": 4,
     "ICD10": "M31.0"
   },
   {
-    "name": "AntiGBM",
-    "text": "Anti-GBM disease",
-    "laytext": "Anti-GBM disease",
-    "category": "chronic",
+    "nome": "AntiGBM",
+    "text": "Doença anti-GBM",
+    "laytext": "Doença anti-GBM",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4304,112 +4304,112 @@
     "IsCantMiss": false
   },
   {
-    "name": "ASpondC",
-    "text": "Ankylosing spondylitis",
-    "laytext": "Ankylosing spondylitis",
-    "category": "chronic"
+    "nome": "ASpondC",
+    "text": "Espondilite anquilosante",
+    "laytext": "Espondilite anquilosante",
+    "categoria": "crônica"
   },
   {
-    "name": "SSC",
-    "text": "Spinal stenosis",
-    "laytext": "Spinal stenosis",
-    "category": "chronic"
+    "nome": "SSC",
+    "text": "Estenose espinhal",
+    "laytext": "Estenose espinhal",
+    "categoria": "crônica"
   },
   {
-    "name": "MetasSpineC",
-    "text": "Metastatic disease to spine or bones, or primary spine or bones neoplasm",
-    "laytext": "Metastatic disease to spine or bones, or primary spine or bones neoplasm",
-    "category": "chronic"
+    "nome": "MetasSpineC",
+    "text": "Doença metastática na coluna ou ossos, ou neoplasia primária da coluna ou ossos",
+    "texto leigo": "Doença metastática na coluna ou ossos, ou neoplasia primária da coluna ou ossos",
+    "categoria": "crônica"
   },
   {
-    "name": "VascKD",
-    "text": "Kidneys' disease related to vasculitis",
-    "laytext": "Kidneys' disease related to vasculitis",
-    "category": "chronic"
+    "nome": "VascKD",
+    "text": "Doença renal relacionada à vasculite",
+    "laytext": "Doença renal relacionada à vasculite",
+    "categoria": "crônica"
   },
   {
-    "name": "IgAKD",
-    "text": "IgA nephropathy",
-    "laytext": "IgA nephropathy",
-    "category": "chronic"
+    "nome": "IgAKD",
+    "text": "Nefropatia por IgA",
+    "laytext": "nefropatia por IgA",
+    "categoria": "crônica"
   },
   {
-    "name": "FGKD",
-    "text": "Fibrillary glomerulonephritis",
-    "laytext": "Fibrillary glomerulonephritis",
-    "category": "chronic"
+    "nome": "FGKD",
+    "text": "Glomerulonefrite fibrilar",
+    "laytext": "Glomerulonefrite fibrilar",
+    "categoria": "crônica"
   },
   {
-    "name": "PSKD",
-    "text": "Poststreptococcal glomerulonephritis",
-    "laytext": "Poststreptococcal glomerulonephritis",
-    "category": "chronic"
+    "nome": "PSKD",
+    "text": "Glomerulonefrite pós-estreptocócica",
+    "laytext": "Glomerulonefrite pós-estreptocócica",
+    "categoria": "crônica"
   },
   {
-    "name": "MNKD",
-    "text": "Membranous nephropathy",
-    "laytext": "Membranous nephropathy",
-    "category": "chronic"
+    "nome": "MNKD",
+    "text": "Nefropatia membranosa",
+    "laytext": "Nefropatia membranosa",
+    "categoria": "crônica"
   },
   {
-    "name": "MCKD",
-    "text": "Minimal change disease",
-    "laytext": "Minimal change disease",
-    "category": "chronic"
+    "nome": "MCKD",
+    "text": "Doença de alteração mínima",
+    "laytext": "Doença de alteração mínima",
+    "categoria": "crônica"
   },
   {
-    "name": "FSGSKD",
-    "text": "Focal segmental glomerulosclerosis",
-    "laytext": "Focal segmental glomerulosclerosis",
-    "category": "chronic"
+    "nome": "FSGSKD",
+    "text": "Glomeruloesclerose segmentar focal",
+    "laytext": "Glomeruloesclerose segmentar focal",
+    "categoria": "crônica"
   },
   {
-    "name": "MPKD",
-    "text": "Membranoproliferative glomerulonephritis",
-    "laytext": "Membranoproliferative glomerulonephritis",
-    "category": "chronic"
+    "nome": "MPKD",
+    "text": "Glomerulonefrite membranoproliferativa",
+    "laytext": "Glomerulonefrite membranoproliferativa",
+    "categoria": "crônica"
   },
   {
-    "name": "DMKD",
-    "text": "Diabetes mellitus related kidney disease",
-    "laytext": "Diabetes mellitus related kidney disease",
-    "category": "chronic"
+    "nome": "DMKD",
+    "text": "Doença renal relacionada ao diabetes mellitus",
+    "laytext": "doença renal relacionada ao diabetes mellitus",
+    "categoria": "crônica"
   },
   {
-    "name": "KC",
-    "text": "Kidney cysts",
-    "laytext": "Kidney cysts",
-    "category": "chronic"
+    "nome": "KC",
+    "text": "Cistos renais",
+    "laytext": "cistos renais",
+    "categoria": "crônica"
   },
   {
-    "name": "ATN",
-    "text": "Acute tubular necrosis",
-    "laytext": "Acute tubular necrosis",
-    "category": "chronic"
+    "nome": "ATN",
+    "text": "Necrose tubular aguda",
+    "laytext": "Necrose tubular aguda",
+    "categoria": "crônica"
   },
   {
-    "name": "AIN",
-    "text": "Acute interstitial nephritis",
-    "laytext": "Acute interstitial nephritis",
-    "category": "chronic"
+    "nome": "AIN",
+    "text": "Nefrite intersticial aguda",
+    "laytext": "Nefrite intersticial aguda",
+    "categoria": "crônica"
   },
   {
-    "name": "CSDC",
-    "text": "Cushing syndrome or disease",
-    "laytext": "Cushing syndrome or disease",
-    "category": "chronic"
+    "nome": "CSDC",
+    "text": "Síndrome ou doença de Cushing",
+    "laytext": "síndrome ou doença de Cushing",
+    "categoria": "crônica"
   },
   {
-    "name": "ADC",
-    "text": "Addisons disease (adrenal insufficiency)",
-    "laytext": "Addisons disease (adrenal insufficiency)",
-    "category": "chronic"
+    "nome": "ADC",
+    "text": "Doença de Addisons (insuficiência adrenal)",
+    "laytext": "Doença de Addisons (insuficiência adrenal)",
+    "categoria": "crônica"
   },
   {
-    "name": "PregnancyC",
-    "text": "Pregnancy",
-    "laytext": "Pregnancy",
-    "category": "chronic",
+    "nome": "Gravidez C",
+    "text": "Gravidez",
+    "laytext": "Gravidez",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4419,14 +4419,14 @@
     "IsGenderSpecific": true,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "Z34.90"
   },
   {
-    "name": "BladderTumorC",
-    "text": "Bladder tumor.",
-    "laytext": "Bladder tumor.",
-    "category": "chronic",
+    "nome": "BladderTumorC",
+    "text": "Tumor de bexiga.",
+    "laytext": "Tumor de bexiga.",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "IsRare": false,
@@ -4436,14 +4436,14 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 4,
+    "Risco": 4,
     "ICD10": "C67.9"
   },
   {
-    "name": "BPHC",
-    "text": "Benign prostatic hypertrophy (BPH)",
-    "laytext": "Benign prostatic hypertrophy (BPH)",
-    "category": "chronic",
+    "nome": "BPHC",
+    "text": "Hipertrofia benigna da próstata (BPH)",
+    "laytext": "Hipertrofia benigna da próstata (BPH)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4453,14 +4453,14 @@
     "IsGenderSpecific": true,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N40.1"
   },
   {
-    "name": "PCaC",
-    "text": "Prostate cancer",
-    "laytext": "Prostate cancer",
-    "category": "chronic",
+    "nome": "PCaC",
+    "text": "Câncer de próstata",
+    "laytext": "Câncer de próstata",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4470,14 +4470,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 4,
+    "Risco": 4,
     "ICD10": "C61"
   },
   {
-    "name": "TesticC",
-    "text": "Testicular cancer",
-    "laytext": "Testicular cancer",
-    "category": "chronic",
+    "nome": "TesticC",
+    "text": "Câncer testicular",
+    "laytext": "Câncer testicular",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4487,20 +4487,20 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 4,
-    "ICD10": "C62.90"
+    "Risco": 4,
+    "ICD10": "C62,90"
   },
   {
-    "name": "VaricoceleC",
+    "nome": "VaricoceleC",
     "text": "Varicocele",
     "laytext": "Varicocele",
-    "category": "chronic"
+    "categoria": "crônica"
   },
   {
-    "name": "EpididymitisC",
-    "text": "Epididymitis",
-    "laytext": "Epididymitis",
-    "category": "chronic",
+    "nome": "EpididimiteC",
+    "text": "Epididimite",
+    "laytext": "Epididimite",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4510,20 +4510,20 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N45.1"
   },
   {
-    "name": "EpiSperC",
-    "text": "Epididymal cysts or spermatocele",
-    "laytext": "Epididymal cysts or spermatocele",
-    "category": "chronic"
+    "nome": "EpiSperC",
+    "text": "Cistos epididimários ou espermatocele",
+    "laytext": "Cistos epididimários ou espermatocele",
+    "categoria": "crônica"
   },
   {
-    "name": "GallStonesC",
-    "text": "Gallbladder stones (cholelithiasis)",
-    "laytext": "Gallbladder stones (cholelithiasis)",
-    "category": "chronic",
+    "nome": "GallStonesC",
+    "text": "Cálculos da vesícula biliar (colelitíase)",
+    "laytext": "Cálculos da vesícula biliar (colelitíase)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4533,14 +4533,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "K80.20"
   },
   {
-    "name": "IBSC",
-    "text": "Irritable bowel syndrome",
-    "laytext": "Irritable bowel syndrome",
-    "category": "chronic",
+    "nome": "IBSC",
+    "text": "Síndrome do intestino irritável",
+    "laytext": "síndrome do intestino irritável",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4550,32 +4550,32 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 2,
+    "Risco": 2,
     "ICD10": "K58.9"
   },
   {
-    "name": "AscariasisC",
-    "text": "Ascariasis",
-    "laytext": "Ascariasis",
-    "category": "chronic"
+    "nome": "AscaríaseC",
+    "text": "Ascaríase",
+    "laytext": "Ascaríase",
+    "categoria": "crônica"
   },
   {
-    "name": "EnterobiasisC",
-    "text": "Enterobiasis (pinworm)",
-    "laytext": "Enterobiasis (pinworm)",
-    "category": "chronic"
+    "nome": "EnterobíaseC",
+    "text": "Enterobíase (traça)",
+    "laytext": "Enterobíase (traça)",
+    "categoria": "crônica"
   },
   {
-    "name": "GiardiasisC",
-    "text": "Giardiasis",
-    "laytext": "Giardiasis",
-    "category": "chronic"
+    "nome": "Giardíase C",
+    "text": "Giardíase",
+    "laytext": "Giardíase",
+    "categoria": "crônica"
   },
   {
-    "name": "ChronsC",
-    "text": "Crohn's disease",
-    "laytext": "Crohn's disease",
-    "category": "chronic",
+    "nome": "ChronsC",
+    "text": "Doença de Crohn",
+    "laytext": "doença de Crohn",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4585,14 +4585,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "K50.90"
   },
   {
-    "name": "CUC",
-    "text": "Ulcerative colitis",
-    "laytext": "Ulcerative colitis",
-    "category": "chronic",
+    "nome": "CUC",
+    "text": "Colite ulcerativa",
+    "laytext": "Colite ulcerativa",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4602,20 +4602,20 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
-    "ICD10": "K51.90"
+    "Risco": 3,
+    "ICD10": "K51,90"
   },
   {
-    "name": "HealthyAllC",
-    "text": "Patient seems free from chronic issues",
-    "laytext": "Patient seems free from chronic issues",
-    "category": "chronic"
+    "nome": "HealthyAllC",
+    "text": "O paciente parece não ter problemas crônicos",
+    "laytext": "O paciente parece livre de problemas crônicos",
+    "categoria": "crônica"
   },
   {
-    "name": "DM1ByHx",
-    "text": "Diabetes melltus type 1 per history (chronic)",
-    "laytext": "Diabetes melltus type 1 per history (chronic condition)",
-    "category": "chronic",
+    "nome": "DM1ByHx",
+    "text": "Diabetes melltus tipo 1 por história (crônica)",
+    "laytext": "Diabetes melltus tipo 1 por história (condição crônica)",
+    "categoria": "crônica",
     "alias": "DM1",
     "wiki": "",
     "wiki2": "",
@@ -4625,14 +4625,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "E10"
   },
   {
-    "name": "DM2ByHx",
-    "text": "Diabetes melltus type 2 per history (chronic)",
-    "laytext": "Diabetes melltus type 2 per history (chronic condition)",
-    "category": "chronic",
+    "nome": "DM2ByHx",
+    "text": "Diabetes melltus tipo 2 por história (crônica)",
+    "texto leigo": "Diabetes melltus tipo 2 por história (condição crônica)",
+    "categoria": "crônica",
     "alias": "DM2",
     "wiki": "",
     "wiki2": "",
@@ -4642,14 +4642,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "E11"
   },
   {
-    "name": "DM2",
-    "text": "New diagnosis of diabetes melltus type 2",
-    "laytext": "New diagnosis of diabetes melltus type 2",
-    "category": "acute",
+    "nome": "DM2",
+    "text": "Novo diagnóstico de diabetes melltus tipo 2",
+    "laytext": "Novo diagnóstico de diabetes melltus tipo 2",
+    "categoria": "agudo",
     "alias": "DM2",
     "wiki": "",
     "wiki2": "",
@@ -4659,14 +4659,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "E11"
   },
   {
-    "name": "DM1",
-    "text": "New diagnosis of diabetes melltus type 1",
-    "laytext": "New diagnosis of diabetes melltus type 1",
-    "category": "acute",
+    "nome": "DM1",
+    "text": "Novo diagnóstico de diabetes melltus tipo 1",
+    "laytext": "Novo diagnóstico de diabetes melltus tipo 1",
+    "categoria": "agudo",
     "alias": "DM1",
     "wiki": "",
     "wiki2": "",
@@ -4676,14 +4676,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "E10"
   },
   {
-    "name": "PCDiabetesC",
-    "text": "Uncontrolled diabetes",
-    "laytext": "Uncontrolled diabetes",
-    "category": "chronic",
+    "nome": "PCDiabetesC",
+    "text": "diabetes não controlada",
+    "laytext": "diabetes não controlada",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4693,61 +4693,61 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3
+    "Risco": 3
   },
   {
-    "name": "HypoThyroC",
-    "text": "Chronic hypothyroidism",
-    "laytext": "Chronic hypothyroidism",
-    "category": "chronic"
+    "nome": "HypoThyroC",
+    "text": "Hipotireoidismo crônico",
+    "laytext": "Hipotireoidismo crônico",
+    "categoria": "crônica"
   },
   {
-    "name": "HyperThyroC",
-    "text": "Chronic hyperthyroidism",
-    "laytext": "Chronic hyperthyroidism",
-    "category": "chronic"
+    "nome": "HyperThyroC",
+    "text": "Hipertireoidismo crônico",
+    "laytext": "hipertireoidismo crônico",
+    "categoria": "crônica"
   },
   {
-    "name": "PheoC",
-    "text": "Pheochromocytoma",
-    "laytext": "Pheochromocytoma",
-    "category": "chronic"
+    "nome": "PheoC",
+    "text": "Feocromocitoma",
+    "laytext": "Feocromocitoma",
+    "categoria": "crônica"
   },
   {
-    "name": "CarcinoidC",
-    "text": "Carcinoid",
-    "laytext": "Carcinoid",
-    "category": "chronic"
+    "nome": "CarcinoidC",
+    "text": "Carcinóide",
+    "laytext": "carcinóide",
+    "categoria": "crônica"
   },
   {
-    "name": "MetSynC",
-    "text": "Metabolic syndrome",
-    "laytext": "Metabolic syndrome",
-    "category": "chronic"
+    "nome": "MetSynC",
+    "text": "Síndrome metabólica",
+    "laytext": "Síndrome metabólica",
+    "categoria": "crônica"
   },
   {
-    "name": "SCDC",
-    "text": "Severe chronic disease",
-    "laytext": "Severe chronic disease",
-    "category": "chronic"
+    "nome": "SCDC",
+    "text": "Doença crônica severa",
+    "laytext": "Doença crônica severa",
+    "categoria": "crônica"
   },
   {
-    "name": "OtherDxC",
-    "text": "Other chronic diagnoses",
-    "laytext": "Other chronic diagnoses",
-    "category": "chronic"
+    "nome": "OutroDxC",
+    "text": "Outros diagnósticos crônicos",
+    "laytext": "Outros diagnósticos crônicos",
+    "categoria": "crônica"
   },
   {
-    "name": "PDA",
-    "text": "Patent ductus arteriosus",
-    "laytext": "Patent ductus arteriosus",
-    "category": "chronic"
+    "nome": "PDA",
+    "text": "Persistência do canal arterial",
+    "laytext": "Patente do canal arterial",
+    "categoria": "crônica"
   },
   {
-    "name": "ChronicAspiration",
-    "text": "Chronic aspiration",
-    "laytext": "Chronic aspiration",
-    "category": "chronic",
+    "nome": "Aspiração crônica",
+    "text": "Aspiração crônica",
+    "laytext": "Aspiração crônica",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4757,14 +4757,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 4,
+    "Risco": 4,
     "ICD10": "Y84.4"
   },
   {
-    "name": "Nephrolithiasis",
-    "text": "Nephrolithiasis (kidney stones)",
-    "laytext": "Stone or stones in kidney",
-    "category": "chronic",
+    "nome": "Nefrolitíase",
+    "text": "Nefrolitíase (cálculos renais)",
+    "laytext": "Pedra ou pedras no rim",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4774,14 +4774,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N20.0"
   },
   {
     "name": "BreastCancer",
-    "text": "Breast cancer",
-    "laytext": "Breast cancer",
-    "category": "chronic",
+    "text": "Câncer de mama",
+    "laytext": "câncer de mama",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4791,14 +4791,14 @@
     "IsGenderSpecific": true,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 4,
+    "Risco": 4,
     "ICD10": "C50.919"
   },
   {
-    "name": "BRCA12Carier",
-    "text": "BRCA1/2 (breast or ovarian gene carier) status",
-    "laytext": "BRCA1/2 (breast or ovarian gene carier) status",
-    "category": "chronic",
+    "nome": "BRCA12Carier",
+    "text": "Status BRCA1 / 2 (mama ou gene carier ovariano)",
+    "laytext": "Status BRCA1 / 2 (mama ou gene carier ovariano)",
+    "categoria": "crônica",
     "alias": "BRCA1, BRCA2",
     "wiki": "",
     "wiki2": "",
@@ -4808,14 +4808,14 @@
     "IsGenderSpecific": true,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "Z15.01"
   },
   {
-    "name": "ThromboembolicPulmonaryHypertensionCTEPH",
-    "text": "Thromboembolic pulmonary hypertension (CTEPH)",
-    "laytext": "Thromboembolic pulmonary hypertension (CTEPH)",
-    "category": "chronic",
+    "nome": "ThromboembolicPulmonaryHypertensionCTEPH",
+    "text": "Hipertensão pulmonar tromboembólica (CTEPH)",
+    "laytext": "Hipertensão pulmonar tromboembólica (CTEPH)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4825,14 +4825,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 4,
+    "Risco": 4,
     "ICD10": "I27.24"
   },
   {
-    "name": "PulmonaryHTNSecondaryToLHD",
-    "text": "Pulmonary hypertension secondary to left heart disease",
-    "laytext": "Pulmonary hypertension secondary to left heart disease",
-    "category": "chronic",
+    "nome": "PulmonaryHTNSecondaryToLHD",
+    "text": "Hipertensão pulmonar secundária a doença cardíaca esquerda",
+    "laytext": "Hipertensão pulmonar secundária a doença cardíaca esquerda",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4842,14 +4842,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "I27.22"
   },
   {
-    "name": "CoronaryArteryDiseaseCAD",
-    "text": "Coronary artery disease, stable angina (CAD)",
-    "laytext": "Coronary artery disease, stable angina (CAD)",
-    "category": "chronic",
+    "nome": "CoronaryArteryDiseaseCAD",
+    "text": "Doença arterial coronariana, angina estável (DAC)",
+    "laytext": "Doença arterial coronariana, angina estável (DAC)",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4859,14 +4859,14 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": true,
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "I25.119"
   },
   {
-    "name": "HyperlipidemiaOrHypercholesterolemia",
-    "text": "Hyperlipidemia or hypercholesterolemia",
-    "laytext": "Hyperlipidemia or hypercholesterolemia",
-    "category": "chronic",
+    "nome": "HiperlipidemiaOu Hipercolesterolemia",
+    "text": "Hiperlipidemia ou hipercolesterolemia",
+    "laytext": "Hiperlipidemia ou hipercolesterolemia",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "wiki2": "",
@@ -4876,50 +4876,50 @@
     "IsGenderSpecific": false,
     "IsImmLifeThreatening": false,
     "IsCantMiss": false,
-    "Risk": 2,
+    "Risco": 2,
     "ICD10": "E78.5"
   },
   {
     "name": "PlaceHolderChronicDiagnosisAlias8ChronicDxAlias",
-    "text": "Chronic atrial fibrillation (Afib)",
-    "laytext": "Chronic atrial fibrillation (Afib)",
-    "category": "chronic"
+    "text": "Fibrilação atrial crônica (Afib)",
+    "laytext": "Fibrilação atrial crônica (Afib)",
+    "categoria": "crônica"
   },
   {
     "name": "PlaceHolderChronicDiagnosisAlias9ChronicDxAlias",
-    "text": "Esophageal cancer (i.e. adenocarcinoma)",
-    "laytext": "Esophageal cancer (i.e. adenocarcinoma)",
-    "category": "chronic"
+    "text": "Câncer de esôfago (ou seja, adenocarcinoma)",
+    "texto leigo": "Câncer de esôfago (ou seja, adenocarcinoma)",
+    "categoria": "crônica"
   },
   {
     "name": "PlaceHolderChronicDiagnosisAlias10ChronicDxAlias",
-    "text": "Barrett's esophagus",
-    "laytext": "Barrett's esophagus",
-    "category": "chronic"
+    "text": "esôfago de Barrett",
+    "laytext": "esôfago de Barrett",
+    "categoria": "crônica"
   },
   {
     "name": "PlaceHolderChronicDiagnosisAlias11ChronicDxAlias",
-    "text": "Stomach cancer (i.e. adenocarcinoma)",
-    "laytext": "Stomach cancer (i.e. adenocarcinoma)",
-    "category": "chronic"
+    "text": "Câncer de estômago (ou seja, adenocarcinoma)",
+    "laytext": "Câncer de estômago (ou seja, adenocarcinoma)",
+    "categoria": "crônica"
   },
   {
     "name": "PlaceHolderChronicDiagnosisAlias12ChronicDxAlias",
-    "text": "Metastatic disease to lungs or primary lungs neoplasm",
-    "laytext": "Metastatic disease to lungs or primary lungs neoplasm",
-    "category": "chronic"
+    "text": "Doença metastática nos pulmões ou neoplasia pulmonar primária",
+    "laytext": "Doença metastática nos pulmões ou neoplasia pulmonar primária",
+    "categoria": "crônica"
   },
   {
     "name": "PlaceHolderChronicDiagnosisAlias13ChronicDxAlias",
-    "text": "Metastatic disease to brain or primary brain neoplasm",
-    "laytext": "Metastatic disease to brain or primary brain neoplasm",
-    "category": "chronic"
+    "text": "Doença metastática no cérebro ou neoplasia cerebral primária",
+    "texto leigo": "Doença metastática no cérebro ou neoplasia cerebral primária",
+    "categoria": "crônica"
   },
   {
     "name": "BladderOutletObstructionMale",
-    "text": "Below-the-bladder urinary tract obstruction.",
-    "laytext": "Below-the-bladder urinary tract obstruction.",
-    "category": "chronic",
+    "text": "Obstrução do trato urinário abaixo da bexiga.",
+    "laytext": "Obstrução do trato urinário abaixo da bexiga.",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "IsRare": false,
@@ -4929,14 +4929,14 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N13.9"
   },
   {
     "name": "BladderOutletObstructionFeMale",
-    "text": "Below-the-bladder urinary tract obstruction.",
-    "laytext": "Below-the-bladder urinary tract obstruction.",
-    "category": "chronic",
+    "text": "Obstrução do trato urinário abaixo da bexiga.",
+    "laytext": "Obstrução do trato urinário abaixo da bexiga.",
+    "categoria": "crônica",
     "alias": "",
     "wiki": "",
     "IsRare": false,
@@ -4946,27 +4946,27 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N13.9"
   },
   {
     "name": "PlaceHolderChronicDiagnosisAlias14ChronicDxAlias",
     "text": "Portal hypertension",
     "laytext": "Portal hypertension",
-    "category": "chronic"
+    "categoria": "crônica"
   },
   {
     "name": "PlaceHolderChronicDiagnosisAlias15ChronicDxAlias",
-    "text": "Cirrhosis",
-    "laytext": "Cirrhosis",
-    "category": "chronic"
+    "text": "Cirrose",
+    "laytext": "Cirrose",
+    "categoria": "crônica"
   },
   {
-    "name": "CKD",
-    "text": "Chronic kidney disease",
-    "laytext": "Chronic kidney disease",
-    "category": "chronic",
-    "alias": "CKD, chronic renal failure, ESRD",
+    "nome": "CKD",
+    "text": "Doença renal crônica",
+    "laytext": "Doença renal crônica",
+    "categoria": "crônica",
+    "alias": "CKD, insuficiência renal crônica, ESRD",
     "wiki": "",
     "IsRare": false,
     "IsGenderSpecific": false,
@@ -4975,15 +4975,15 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N18.9"
   },
   {
-    "name": "DiabeticNephropathy",
-    "text": "Diabetic Nephropathy",
-    "laytext": "Kidney disease secondary to diabetic damage (diabetic nephropathy)",
-    "category": "chronic",
-    "alias": "Diabetic Nephropathy",
+    "nome": "Nefropatia Diabética",
+    "text": "Nefropatia diabética",
+    "laytext": "Doença renal secundária a dano diabético (nefropatia diabética)",
+    "categoria": "crônica",
+    "alias": "Nefropatia diabética",
     "wiki": "",
     "IsRare": false,
     "IsGenderSpecific": false,
@@ -4992,15 +4992,15 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N18.9"
   },
   {
-    "name": "NephroticSyndrome",
-    "text": "Nephrotic syndrome",
-    "laytext": "Nephrotic syndrome",
-    "category": "chronic",
-    "alias": "nephrotic syndrome, nephrosis",
+    "nome": "Síndrome Nefrótica",
+    "text": "Síndrome nefrótica",
+    "laytext": "Síndrome nefrótica",
+    "categoria": "crônica",
+    "alias": "síndrome nefrótica, nefrose",
     "wiki": "",
     "IsRare": true,
     "IsGenderSpecific": false,
@@ -5009,15 +5009,15 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N04.9"
   },
   {
-    "name": "NephriticSyndrome",
-    "text": "Nephritic syndrome",
-    "laytext": "Nephritic syndrome",
-    "category": "chronic",
-    "alias": "nephritic syndrome",
+    "nome": "Síndrome Nefrítica",
+    "text": "Síndrome nefrítica",
+    "laytext": "síndrome nefrítica",
+    "categoria": "crônica",
+    "alias": "síndrome nefrítica",
     "wiki": "",
     "IsRare": true,
     "IsGenderSpecific": false,
@@ -5026,14 +5026,14 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N00.9"
   },
   {
-    "name": "MembranousNephropathy",
-    "text": "Membranous nephropathy",
-    "laytext": "Membranous nephropathy",
-    "category": "chronic",
+    "nome": "Nefropatia Membranosa",
+    "text": "Nefropatia membranosa",
+    "laytext": "Nefropatia membranosa",
+    "categoria": "crônica",
     "alias": "MN",
     "wiki": "",
     "IsRare": true,
@@ -5043,14 +5043,14 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3
+    "Risco": 3
   },
   {
-    "name": "PrimaryMembranousNephropathy",
-    "text": "Primary membranous nephropathy",
-    "laytext": "Primary membranous nephropathy",
-    "category": "chronic",
-    "alias": "Primary MN",
+    "nome": "Nefropatia Membranosa Primária",
+    "text": "Nefropatia membranosa primária",
+    "laytext": "Nefropatia membranosa primária",
+    "categoria": "crônica",
+    "alias": "MN principal",
     "wiki": "",
     "IsRare": true,
     "IsGenderSpecific": false,
@@ -5059,15 +5059,15 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "N05.2"
   },
   {
-    "name": "SecondaryMembranousNephropathy",
-    "text": "Secondary membranous nephropathy",
-    "laytext": "Secondary membranous nephropathy",
-    "category": "chronic",
-    "alias": "Secondary MN",
+    "nome": "Nefropatia Membranosa Secundária",
+    "text": "Nefropatia membranosa secundária",
+    "laytext": "Nefropatia membranosa secundária",
+    "categoria": "crônica",
+    "alias": "MN secundário",
     "wiki": "",
     "IsRare": true,
     "IsGenderSpecific": false,
@@ -5076,14 +5076,14 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3
+    "Risco": 3
   },
   {
-    "name": "HypertensiveNephropathy",
-    "text": "Hypertensive nephropathy",
-    "laytext": "Kidney disease due to damage from high blood pressure (hypertension)",
-    "category": "acute",
-    "alias": "Hypertensive Nephropathy, HTN Nephropathy",
+    "nome": "HipertensivaNefropatia",
+    "text": "Nefropatia hipertensiva",
+    "laytext": "Doença renal devido a danos causados ​​por pressão alta (hipertensão)",
+    "categoria": "agudo",
+    "alias": "Nefropatia hipertensiva, nefropatia hipertensiva",
     "wiki": "",
     "IsRare": false,
     "IsGenderSpecific": false,
@@ -5092,14 +5092,14 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3
+    "Risco": 3
   },
   {
-    "name": "Shock",
-    "text": "Shock",
-    "laytext": "Severly decreased blood pressure (shock)",
-    "category": "acute",
-    "alias": "shock, hypotension",
+    "nome": "Choque",
+    "text": "Choque",
+    "laytext": "Redução acentuada da pressão arterial (choque)",
+    "categoria": "agudo",
+    "alias": "choque, hipotensão",
     "wiki": "",
     "IsRare": false,
     "IsGenderSpecific": false,
@@ -5108,14 +5108,14 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 4,
+    "Risco": 4,
     "ICD10": "R57.9"
   },
   {
-    "name": "AnemiaInMale",
-    "text": "Anemia in male",
-    "laytext": "low hemoglobin (anemia in male)",
-    "category": "chronic",
+    "nome": "AnemiaInMale",
+    "text": "Anemia em homens",
+    "laytext": "baixa hemoglobina (anemia em homens)",
+    "categoria": "crônica",
     "alias": "AnemiaM",
     "wiki": "https://www.uptodate.com/contents/approach-to-the-adult-with-anemia?search=anemia&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1",
     "IsRare": false,
@@ -5125,14 +5125,14 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "D64.9"
   },
   {
-    "name": "AnemiaInFemale",
-    "text": "Anemia in female",
-    "laytext": "low hemoglobin (anemia in female)",
-    "category": "chronic",
+    "nome": "AnemiaInFemale",
+    "text": "Anemia em mulheres",
+    "laytext": "baixa hemoglobina (anemia em mulheres)",
+    "categoria": "crônica",
     "alias": "AnemiaF",
     "wiki": "https://www.uptodate.com/contents/approach-to-the-adult-with-anemia?search=anemia&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1",
     "IsRare": false,
@@ -5142,15 +5142,15 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 3,
+    "Risco": 3,
     "ICD10": "D64.9"
   },
   {
-    "name": "StateOfHealth",
-    "text": "State of health, no health issues.",
-    "laytext": "State of health, no health issues.",
-    "category": "chronic",
-    "alias": "Healthy patient",
+    "nome": "StateOfHealth",
+    "text": "Estado de saúde, sem problemas de saúde.",
+    "laytext": "Estado de saúde, sem problemas de saúde.",
+    "categoria": "crônica",
+    "alias": "Paciente saudável",
     "wiki": "",
     "IsRare": false,
     "IsGenderSpecific": true,
@@ -5161,10 +5161,10 @@
     "wiki4": ""
   },
   {
-    "name": "RespiratoryAcidosis",
-    "text": "Respiratory acidosis",
-    "laytext": "Respiratory acidosis",
-    "category": "acute",
+    "nome": "Acidose respiratória",
+    "text": "Acidose respiratória",
+    "laytext": "acidose respiratória",
+    "categoria": "agudo",
     "alias": "",
     "wiki": "",
     "IsRare": false,
@@ -5174,7 +5174,7 @@
     "wiki2": "",
     "wiki3": "",
     "wiki4": "",
-    "Risk": 4,
+    "Risco": 4,
     "ICD10": "J96.02"
   }
 ]
