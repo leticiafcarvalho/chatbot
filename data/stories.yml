@@ -2,29 +2,36 @@ version: "2.0"
 
 stories:
 
-- story: happy path
+- story: caminho feliz
   steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_great
-  - action: utter_happy
+  - intent: cumprimentar
+  - action: dizer_cumprimentar
+  - intent: humor_otimo
+  - action: dizer_feliz
 
-- story: sad path 1
+- story: caminho triste 1
   steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: affirm
-  - action: utter_happy
+  - intent: cumprimentar
+  - action: dizer_cumprimentar
+  - intent: humor_infeliz
+  - action: dizer_alegrar
+  - action: dizer_isso_ajudou
+  - intent: confirmar
+  - action: dizer_feliz
 
-- story: sad path 2
+- story: caminho triste 2
   steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: deny
-  - action: utter_goodbye
+  - intent: cumprimentar
+  - action: dizer_cumprimentar
+  - intent: humor_infeliz
+  - action: dizer_alegrar
+  - action: dizer_isso_ajudou
+  - intent: negar
+  - action: dizer_despedida
+
+- story: path_onde_voce_mora
+  steps:
+  - intent: onde_voce_mora
+  - action: utter_onde_voce_mora
+
+  

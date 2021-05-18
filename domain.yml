@@ -1,33 +1,38 @@
 version: "2.0"
 
 intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
+  - cumprimentar
+  - despedida
+  - confirmar
+  - negar
+  - humor_otimo
+  - humor_infeliz
+  - desafio_de_bot
+  - onde_voce_mora
+  
 
 responses:
-  utter_greet:
+  dizer_cumprimentar:
   - text: "Ei! Como vai você?"
 
-  utter_cheer_up:
+  dizer_alegrar:
   - text: "Aqui está algo para animá-lo:"
     image: "https://i.imgur.com/nGF1K8f.jpg"
 
-  utter_did_that_help:
+  dizer_isso_ajudou:
   - text: "Isso te ajudou?"
 
-  utter_happy:
+  dizer_feliz:
   - text: "Ótimo, continue!"
 
-  utter_goodbye:
+  dizer_despedida:
   - text: "Tchau"
 
-  utter_iamabot:
+  dizer_eusouumbot:
   - text: "Eu sou um bot."
+
+  utter_onde_voce_mora:
+  - text: "Eu estou em um lugar legal"
 
 session_config:
   session_expiration_time: 60

@@ -1,7 +1,7 @@
 version: "2.0"
 
 nlu:
-- intent: greet
+- intent: cumprimentar
   examples: |
     - oi
     - olá
@@ -12,7 +12,7 @@ nlu:
     - oi, como vai você
     - oi, tudo bem?
 
-- intent: goodbye
+- intent: despedida
   examples: |
     - boa tarde
     - até amanhã
@@ -26,7 +26,7 @@ nlu:
     - Vejo você por aí
     - tchau tchau
 
-- intent: affirm
+- intent: confirmar
   examples: |
     - sim
     - y
@@ -38,7 +38,7 @@ nlu:
     - correto
     - s
 
-- intent: deny
+- intent: negar
   examples: |
     - não
     - n
@@ -47,7 +47,7 @@ nlu:
     - na verdade não
     - ñ
 
-- intent: mood_great
+- intent: humor_otimo
   examples: |
     - perfeito
     - excelente
@@ -64,7 +64,7 @@ nlu:
     - tão bom
     - tão perfeito
 
-- intent: mood_unhappy
+- intent: humor_infeliz
   examples: |
     - meu dia foi horrível
     - Estou triste
@@ -81,9 +81,26 @@ nlu:
     - tão saad
     - tão triste
 
-- intent: bot_challenge
+- intent: desafio_de_bot
   examples: |
     - Você é um robô?
     - Você é um humano?
     - estou falando com um bot?
     - estou falando com um humano?
+
+- intent: onde_voce_mora
+  examples: |
+    - onde voce [mora](live) res
+    - onde voce [vive](live) res
+    - onde voce habita
+    - em que lugar voce [vive](live) res
+    - [onde voce esta](live) agora res
+    - voce [mora](live) no computador res
+    - voce [vive](live) na internet res
+    - [onde vc esta](live) res
+    - qual é o seu habitat
+    - qual é o seu endereço
+    - qual e o seu endereco
+    - qual o seu endereço
+    - qual o seu endereco    
+
